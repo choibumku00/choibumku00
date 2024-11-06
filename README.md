@@ -1,7 +1,6 @@
 # ☄️ 최범규(Bumku Choi)
 
-[📄최범규 CV](https://github.com/choibumku00/choibumku00/files/15219670/CV.pdf)
-
+[📄최범규 CV](https://github.com/choibumku00/choibumku00/raw/refs/heads/main/%EC%B5%9C%EB%B2%94%EA%B7%9C_CV.pdf)  
 안녕하세요. 어렵다고 포기하지 않는 최범규입니다.  
 지식 그래프를 활용한 추천 서비스 딥러닝 연구를 주로 수행하고 있으며, 인공지능을 활용한 다양한 분야에 관심을 가지고 있습니다.  
 특히 팀원과의 협업을 통해 연구 및 프로젝트를 기획하고 개발하는 과정을 즐기며, 제 능력을 향상 시켜 연구 및 프로젝트를 더 발전시키도록 노력하고 있습니다.  
