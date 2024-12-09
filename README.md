@@ -1,6 +1,6 @@
 # ☄️ 최범규(Bumku Choi) ㅣ AI 개발자
 
-[📄최범규 CV](https://github.com/choibumku00/choibumku00/raw/refs/heads/main/%EC%B5%9C%EB%B2%94%EA%B7%9C_CV.pdf)  
+[📄최범규 CV](https://github.com/choibumku00/choibumku00/blob/main/%EC%B5%9C%EB%B2%94%EA%B7%9C_CV.pdf)  
 
 안녕하세요. 어렵다고 포기하지 않는 최범규입니다.  
 지식 그래프를 활용한 추천 시스템 연구를 주로 하고 있습니다.  
