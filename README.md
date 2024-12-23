@@ -32,26 +32,21 @@ IT 분야에 관심이 많아, 컴퓨터, 모바일, 인공지능, 자연 과학
 
 # 🌟주요 기술
 ## **Python**
-
 - 메인 프로그래밍 언어
 - AI 및 데이터 분석에 활용
 - 주요 라이브러리: PyTorch, TensorFlow, Pandas, NumPy 등
-- 머신러닝 및 딥러닝 모델 구현 경험
 
 ## **Recommendation System**
-
-- 유사도 기반 및 행렬 분해 기법 활용
+- 유사도 기반 및 행렬 분해 학습
 - MLP, NLP, GNN을 활용한 딥러닝 기반 추천 시스템 연구
-- 사용자 맞춤형 추천 모델 개발 경험
+- 개인화된 맞춤형 추천 시스템 개발
 
 ## **GNN (Graph Neural Network)**
-
-- 그래프 구조 학습
-- 추천 시스템 및 네트워크 분석에 적용
-- GCN, GAT 등 다양한 모델 실습
+- 그래프 구조 및 특징 학습
+- POI(Point Of Interest) 추천 시스템에 적용
+- GCN, GAT 등 다양한 모델 공부 및 실습
 
 ## **NLP (Natural Language Processing)**
-
 - Word2vec을 통한 단어 벡터화
 - BERT를 Fine-tuning 및 Embedding 추출 경험
 - 감성 분석, 텍스트 분류 등 다양한 NLP 기술 경험
